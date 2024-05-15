@@ -1,0 +1,1 @@
+mklink "C:\Users\%USERNAME%\Desktop\Close The Door" "C:\Users\%USERNAME%\Documents\Close The Door\Close The Door.exe"
